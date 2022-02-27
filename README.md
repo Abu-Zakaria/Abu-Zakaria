@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakariablaine&label=Profile%20views&color=0e75b6&style=flat" alt="jakariablaine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakariablaine" alt="jakariablaine" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakariablaine&theme=onedark" alt="jakariablaine" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jakaria_120" target="blank"><img src="https://img.shields.io/twitter/follow/jakaria_120?logo=twitter&style=for-the-badge" alt="jakaria_120" /></a> </p>
 
