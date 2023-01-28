@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jakaria_120" target="blank"><img src="https://img.shields.io/twitter/follow/jakaria_120?logo=twitter&style=for-the-badge" alt="jakaria_120" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [cynax120.com](cynax120.com)
-
-- 📝 I regularly write articles on [abu-zakaria.hashnode.dev](abu-zakaria.hashnode.dev)
+- 📝 I sometimes write articles on [abu-zakaria.hashnode.dev](abu-zakaria.hashnode.dev)
 
 - 💬 Ask me about **laravel, vue**
 
 - 📫 How to reach me **asm.zakaria120@gmail.com**
-
-- 📄 Know about my experiences [https://cynax120.com/resume/Abu_Zakaria_Resume.pdf](https://cynax120.com/resume/Abu_Zakaria_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
