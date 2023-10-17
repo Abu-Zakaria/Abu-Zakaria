@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [abu-zakaria.hashnode.dev](abu-zakaria.hashnode.dev)
 
-- 💬 Ask me about **laravel, vue**
+- 💬 Ask me about **Golang, PHP, JavaScript**
 
 - 📫 How to reach me **asm.zakaria120@gmail.com**
 
