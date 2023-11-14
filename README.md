@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abu-Zakaria&label=Profile%20views&color=0e75b6&style=flat" alt="Abu-Zakaria" /> </p>
 
-- 📝 I sometimes write articles on [abu-zakaria.hashnode.dev](abu-zakaria.hashnode.dev)
+- 📝 I sometimes write articles on [abuzakaria.substack.com](https://abuzakaria.substack.com/)
 
 - 📫 How to reach me **asm.zakaria120@gmail.com**
 
